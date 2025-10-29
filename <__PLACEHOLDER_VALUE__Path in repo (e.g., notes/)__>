@@ -1,0 +1,49 @@
+# My Project Documentation
+
+Welcome to my project documentation. This page outlines key aspects of the project.
+
+## 1. Getting Started
+
+Here are the first steps:
+
+*   Clone the repository.
+*   Install dependencies.
+*   Run the application.
+
+### Installation Steps
+
+1.  `git clone https://github.com/user/repo.git`
+2.  `cd repo`
+3.  `pip install -r requirements.txt`
+
+## 2. Code Example
+
+Here's a sample Python function:
+
+```python
+def hello_world():
+    print("Hello, Notion!")
+    # This is a comment
+```
+
+This `hello_world` function is very simple.
+
+### Important Notes
+
+**Please** make sure you have Python installed. You can download it from [python.org](https://www.python.org/).
+
+~~Old text here~~ *This text is italic.*
+
+> This is a callout block. It contains important information.
+> - Another point
+> - Yet another point
+
+### Task List
+
+- [ ] Complete setup guide
+- [x] Review existing code
+- [ ] Write unit tests
+
+---
+
+This is the end of the document.
